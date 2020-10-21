@@ -58,7 +58,6 @@
 
 
 x = 1
-
 # res = 'OK' if x else 'NO'
 # print(res)
 print('OK' if x else 'NO')
