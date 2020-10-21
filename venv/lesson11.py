@@ -18,3 +18,4 @@ age = 30
 # print(f'My name is {name}. I\'m {age + 5}')
 print('5 + 2 = {}'.format(5 + 2))
 print(f'5 + 2 = {5 + 2}')
+
