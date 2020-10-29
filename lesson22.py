@@ -26,7 +26,7 @@
 # print(a, b, c, d, e, f, sep='\n')
 
 
-# s = {'apple', 'orange', 'apple', 'pear', 'orange', 'banana'}
+s = {'apple', 'orange', 'apple', 'pear', 'orange', 'banana'}
 # s2 = s.copy()
 #
 # print(s, id(s))
@@ -46,6 +46,9 @@
 # print(s)
 
 
-a = frozenset('hello')
-a.add('apple')
-print(a)
+# a = frozenset('hello')
+# a.add('apple')
+# print(a)
+
+for i in s:
+    print(i)
