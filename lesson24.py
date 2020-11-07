@@ -14,4 +14,5 @@ product1 = {'title': 'Sony', 'price': 100}
 # product1.update({'price': 200})
 # print(product1)
 
+
 print(product1.values())
